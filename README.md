@@ -1,1 +1,1 @@
-# meus-python
+"Checklist automatizado para hamburgueria"
